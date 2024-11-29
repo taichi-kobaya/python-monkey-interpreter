@@ -1,0 +1,4 @@
+# Python仮想環境を無視
+venv/
+
+.vscode/
